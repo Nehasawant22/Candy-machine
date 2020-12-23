@@ -3,7 +3,7 @@ import java.awt.event.ActionEvent;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 
-public class Candy {
+public class Candy {               //Nehasawant22
 
     public static void main(String[] args) {
         cashRegister CASH = new cashRegister();
